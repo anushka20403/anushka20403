@@ -1,3 +1,6 @@
+![Header](https://ibb.co/8d1q9cf)
+
+
 <h1 align="center">Hi 👋, I'm Anushka Mohan</h1>
 <h3 align="center">A 4th year student at Manipal University Jaipur passionate about web dev and AI/ML</h3>
 
