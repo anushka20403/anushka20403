@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **anushka20403@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nUVzG9w2AzcQv7N4lIUEyfvDPp5hcItt/view](https://drive.google.com/file/d/1nUVzG9w2AzcQv7N4lIUEyfvDPp5hcItt/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AcJUiImay3wGS7d1-OTWj7KsW5nE39Ur/view?usp=sharing]
 
 - ⚡ Fun fact **I enjoy reading novels**
 
