@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anushka Mohan</h1>
-<h3 align="center">A 4th year student at Manipal University Jaipur passionate about web dev and AI/ML</h3>
+<h3 align="center">A 4th year CSE student at Manipal University Jaipur passionate about web dev and AI/ML</h3>
 
 - 🔭 I’m currently working on **a back-end project**
 
